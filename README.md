@@ -11,3 +11,6 @@ pandas,
 data visualization using matplotlib, seaborn, internet plotting,  
 Machine learning algorithm both supervised and unsupervised learning
 
+
+
+For the dataset I made use of during my learning process, you can contact me via orisa1234tolu@gmail.com
